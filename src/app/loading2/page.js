@@ -20,8 +20,8 @@ const BotSection = () => {
   }, [router]);
 
   return (
-    <div className="flex bg-[#764B4B] items-center justify-center min-h-screen">
-      <div className="bg-[#764B4B] app-background-img border-2 border-black flex justify-center flex-col rounded-2xl shadow-lg p-8 text-center w-[330px] h-[450px]">
+    <div className="flex items-center justify-center min-h-screen">
+      <div className="border-2 border-black flex justify-center flex-col rounded-2xl shadow-lg p-8 text-center w-[330px] h-[450px]">
         <h1 className="text-xl uppercase font-[400] leading-3 whitespace-nowrap text-center text-[#FF8585] mb-4 koulen-regular">
           Signal is ready🤖
         </h1>

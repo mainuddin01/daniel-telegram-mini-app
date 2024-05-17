@@ -52,10 +52,11 @@ body {
 }
 
 .app-background-img {
-  background-image: url('../../public/background-blur.jpeg');
+  background-image: url('../../public/background.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  backdrop-filter: blur(8px);
 }
 
 .id-text {

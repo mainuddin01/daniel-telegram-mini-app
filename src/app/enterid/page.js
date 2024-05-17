@@ -22,8 +22,8 @@ const BotSection = () => {
   };
 
   return (
-    <div className="flex bg-[#764B4B] items-center justify-center min-h-screen">
-      <div className="bg-[#764B4B] app-background-img border-2 border-black rounded-2xl flex flex-col justify-center items-center shadow-lg p-8 pt-0 text-center w-[330px] h-[450px]">
+    <div className="flex items-center justify-center min-h-screen">
+      <div className="border-2 border-black rounded-2xl flex flex-col justify-center items-center shadow-lg p-8 pt-0 text-center w-[330px] h-[450px]">
         <div className="flex justify-center mb-4">
           <Image className="loading-img" src={idImage} alt="Loading" width={140} height={130} unoptimized />
         </div>
