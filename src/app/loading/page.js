@@ -27,7 +27,7 @@ const BotSection = () => {
 
   return (
     <div className="flex items-center justify-center min-h-screen">
-      <div className="border-2 border-black flex flex-col justify-normal rounded-2xl shadow-lg pt-8 pb-8 text-center w-[330px] h-[450px]">
+      <div className="flex flex-col justify-normal rounded-2xl pt-8 pb-8 text-center w-[330px] h-[450px]">
         <h1 className="text-lg uppercase font-[400] leading-3 whitespace-nowrap text-center text-[#FF8585] pt-5 mb-4 koulen-regular">
           Brawl Start Bot Activated✅
         </h1>

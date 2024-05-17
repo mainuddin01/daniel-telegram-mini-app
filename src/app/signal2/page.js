@@ -13,7 +13,7 @@ const BotSection = () => {
 
   return (
     <div className="flex items-center justify-center min-h-screen">
-      <div className="border-2 border-black flex justify-center flex-col rounded-2xl shadow-lg p-8 text-center w-[330px] h-[450px]">
+      <div className="flex justify-center flex-col rounded-2xl p-8 text-center w-[330px] h-[450px]">
         <div className="flex justify-center mb-4">
           <Image
             src={signal2}
