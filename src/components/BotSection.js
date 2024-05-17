@@ -31,9 +31,9 @@ const BotSection = () => {
         >
           Start Bot
         </button>
-        <p className="text-[#000000] py-10 font-bold text-[13px] mt-4">
+        <a href="https://www.instagram.com/spinscasino/ " className="text-[#ffffff] py-10 font-bold underline text-[13px] mt-4">
           Powered by Spinscasino TM
-        </p>
+        </a>
       </div>
     </div>
   );
